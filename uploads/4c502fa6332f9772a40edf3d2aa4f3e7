@@ -1,0 +1,1954 @@
+{
+    "questions": [
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (1)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (2)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (3)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (4)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (5)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (6)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (7)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (8)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (9)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (10)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (11)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (12)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (13)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (14)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (15)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (16)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (17)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (18)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (19)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (20)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (21)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (22)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (23)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (24)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (25)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (26)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (27)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (28)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (29)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (30)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (31)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (32)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (33)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (34)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (35)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (36)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (37)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (38)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (39)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (40)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (41)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (42)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (43)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (44)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (45)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (46)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (47)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (48)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (49)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (50)",
+            "options": [
+                "vector<int> v;",
+                "int vector v;",
+                "vector v<int>;",
+                "vector v = new int[];"
+            ],
+            "correct": 0,
+            "timer": 60,
+            "level": 1
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (1)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (2)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (3)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (4)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (5)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (6)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (7)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (8)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (9)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (10)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (11)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (12)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (13)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (14)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (15)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (16)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (17)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (18)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (19)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (20)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (21)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (22)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (23)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (24)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (25)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (26)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (27)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (28)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (29)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (30)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (31)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (32)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (33)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (34)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (35)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (36)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (37)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (38)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (39)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (40)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (41)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (42)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (43)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (44)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (45)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (46)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (47)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (48)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (49)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "อัลกอริทึม Counting Sort จัดอยู่ในประเภทใด? (50)",
+            "options": [
+                "การเรียงลำดับแบบเปรียบเทียบ",
+                "การเรียงลำดับแบบไม่เปรียบเทียบ",
+                "การเรียงลำดับแบบไฮบริด",
+                "การเรียงลำดับแบบเวียนกลับ (Recursive)"
+            ],
+            "correct": 1,
+            "timer": 70,
+            "level": 2
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (1)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (2)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (3)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (4)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (5)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (6)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (7)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (8)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (9)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (10)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (11)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (12)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (13)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (14)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (15)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (16)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (17)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (18)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (19)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (20)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (21)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (22)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (23)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (24)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (25)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (26)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (27)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (28)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (29)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (30)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (31)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (32)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (33)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (34)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (35)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (36)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (37)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (38)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (39)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (40)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (41)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (42)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (43)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (44)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (45)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (46)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (47)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (48)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (49)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        },
+        {
+            "type": "multiple-choice",
+            "question": "ความซับซ้อนของอัลกอริทึมการค้นหาเชิงเส้น (Linear Search) ในกรณีที่แย่ที่สุดคือเท่าใด? (50)",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "correct": 2,
+            "timer": 80,
+            "level": 3
+        }
+    ]
+}

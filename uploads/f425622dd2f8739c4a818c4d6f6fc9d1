@@ -1,0 +1,24 @@
+[
+ //อ.1
+    {
+        "type": "essay",
+        "question": "2+2",
+        "correct": "4",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "99+1",
+        "correct": "100",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "85+147",
+        "correct": "232",
+        "timer": 60,
+        "level": 1
+    }
+]

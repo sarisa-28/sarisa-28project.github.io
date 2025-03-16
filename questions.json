@@ -1,0 +1,1952 @@
+[
+    {
+        "type": "multiple-choice",
+        "question": "ในภาษา C++ คำสั่งที่ใช้ประกาศตัวแปรคืออะไร?",
+        "options": [
+            "var a;",
+            "let a;",
+            "declare a;",
+            "int a;"
+        ],
+        "correct": 3,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับพิมพ์ข้อมูลออกใน C++?",
+        "options": [
+            "System.out.println()",
+            "print()",
+            "printf()",
+            "cout <<"
+        ],
+        "correct": 3,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับรับข้อมูลเข้าจากผู้ใช้ใน C++?",
+        "options": [
+            "input()",
+            "scanf()",
+            "cin >>",
+            "read()"
+        ],
+        "correct": 2,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับจบการทำงานของฟังก์ชันใน C++?",
+        "options": [
+            "stop;",
+            "end;",
+            "return;",
+            "exit;"
+        ],
+        "correct": 2,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ ประเภทข้อมูลพื้นฐานใดที่ใช้เก็บค่าตัวเลขจำนวนเต็ม?",
+        "options": [
+            "int",
+            "float",
+            "double",
+            "char"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดที่ใช้ประกาศฟังก์ชันใน C++?",
+        "options": [
+            "void foo() {}",
+            "function foo() {}",
+            "def foo() {}",
+            "fun foo() {}"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับคอมเมนต์แบบบรรทัดเดียวใน C++?",
+        "options": [
+            "// comment",
+            "/* comment */",
+            "# comment",
+            "<!-- comment -->"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับรวมไฟล์ header ใน C++?",
+        "options": [
+            "#include",
+            "import",
+            "using",
+            "require"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับประกาศค่าคงที่ใน C++?",
+        "options": [
+            "final",
+            "static",
+            "constant",
+            "const"
+        ],
+        "correct": 3,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "สัญลักษณ์ใดใช้สำหรับเชื่อมต่อสตริงใน C++?",
+        "options": [
+            "&",
+            "||",
+            "append",
+            "+"
+        ],
+        "correct": 3,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับเปรียบเทียบค่าในเงื่อนไข if ใน C++?",
+        "options": [
+            "===",
+            "equals",
+            "=",
+            "=="
+        ],
+        "correct": 3,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ วงเล็บ {} ใช้สำหรับอะไร?",
+        "options": [
+            "การคำนวณ",
+            "การจัดกลุ่มคำสั่ง",
+            "การประกาศตัวแปร",
+            "การแสดงผล"
+        ],
+        "correct": 1,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับสร้างลูปที่ทำซ้ำใน C++?",
+        "options": [
+            "switch",
+            "while",
+            "if",
+            "case"
+        ],
+        "correct": 1,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับออกจากลูปใน C++?",
+        "options": [
+            "continue",
+            "break",
+            "exit",
+            "stop"
+        ],
+        "correct": 1,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับตรวจสอบเงื่อนไขหลายกรณีใน C++?",
+        "options": [
+            "if-else",
+            "switch-case",
+            "for-loop",
+            "do-while"
+        ],
+        "correct": 1,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ คำสั่ง return ใช้สำหรับ?",
+        "options": [
+            "ออกจากโปรแกรม",
+            "ออกจากฟังก์ชัน",
+            "ประกาศตัวแปร",
+            "เรียกใช้ฟังก์ชัน"
+        ],
+        "correct": 1,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ตัวดำเนินการใดใช้สำหรับบวกค่าใน C++?",
+        "options": [
+            "+",
+            "++",
+            "+=",
+            "all"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับเปรียบเทียบค่ามากกว่าใน C++?",
+        "options": [
+            ">",
+            "<",
+            ">=",
+            "<="
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ฟังก์ชันหลักในโปรแกรม C++ คือฟังก์ชัน?",
+        "options": [
+            "main()",
+            "start()",
+            "init()",
+            "program()"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "20. คำสั่งใดใช้สำหรับการคอมไพล์โปรแกรม C++?",
+        "options": [
+            "gcc",
+            "g++",
+            "javac",
+            "python"
+        ],
+        "correct": 1,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "สัญลักษณ์ใดใช้สำหรับคอมเมนต์แบบหลายบรรทัดใน C++?",
+        "options": [
+            "/* */",
+            "#",
+            "<!— —>",
+            "//"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดไม่ใช่คำสั่งควบคุมใน C++?",
+        "options": [
+            "if",
+            "for",
+            "switch",
+            "print"
+        ],
+        "correct": 3,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ประเภทข้อมูลใดที่ใช้เก็บอักขระใน C++?",
+        "options": [
+            "char",
+            "int",
+            "float",
+            "bool"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับแสดงผลตัวแปรใน C++?",
+        "options": [
+            "cout <<",
+            "print()",
+            "echo",
+            "display()"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "เครื่องหมายใดใช้สำหรับจบบรรทัดใน C++?",
+        "options": [
+            ";",
+            ":",
+            ".",
+            ","
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับสร้างอาร์เรย์ใน C++?",
+        "options": [
+            "int arr[];",
+            "array arr;",
+            "list arr;",
+            "vector arr;"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับจองหน่วยความจำแบบไดนามิกใน C++?",
+        "options": [
+            "new",
+            "malloc()",
+            "alloc()",
+            "create()"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับปล่อยหน่วยความจำที่จองไว้ใน C++?",
+        "options": [
+            "delete",
+            "free()",
+            "remove()",
+            "dispose()"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับสร้างคลาสใน C++?",
+        "options": [
+            "class",
+            "struct",
+            "object",
+            "define"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับสืบทอดคลาสใน C++?",
+        "options": [
+            ":",
+            "inherit",
+            "extends",
+            "implements"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ คำสั่ง namespace ใช้สำหรับอะไร?",
+        "options": [
+            "จัดกลุ่มฟังก์ชัน",
+            "คอมไพล์โปรแกรม",
+            "จัดการข้อผิดพลาด",
+            "เรียกใช้งานคลาส"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับสร้างคอนสตรักเตอร์ในคลาส C++?",
+        "options": [
+            "ClassName()",
+            "constructor()",
+            "init()",
+            "new()"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับทำลายอ็อบเจ็กต์ใน C++?",
+        "options": [
+            "~ClassName()",
+            "destroy",
+            "delete",
+            "free"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ คำสั่ง using namespace std; ใช้เพื่อ?",
+        "options": [
+            "นำเข้ามาตรฐานไลบรารี",
+            "ประกาศตัวแปร",
+            "สร้างฟังก์ชัน",
+            "กำหนดชนิดข้อมูล"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับเปรียบเทียบค่าในเงื่อนไขใน C++?",
+        "options": [
+            "==",
+            "!= ",
+            "=<",
+            "=>"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับประกาศตัวแปรแบบทศนิยมใน C++?",
+        "options": [
+            "float",
+            "int",
+            "char",
+            "bool"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ คำสั่ง for ใช้สำหรับ?",
+        "options": [
+            "การทำซ้ำ",
+            "การตัดสินใจ",
+            "การประกาศฟังก์ชัน",
+            "การกำหนดตัวแปร"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับสร้างคอมเมนต์ในบรรทัดเดียว?",
+        "options": [
+            "//",
+            "/* */",
+            "<!-- -->",
+            "##"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับประกาศตัวแปรในระดับบล็อก?",
+        "options": [
+            "auto",
+            "static",
+            "extern",
+            "register"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับระบุการเข้าถึงสมาชิกของคลาสใน C++?",
+        "options": [
+            "all ข้อ",
+            "public:",
+            "private:",
+            "protected:"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ คำสั่ง break ใช้เพื่อ?",
+        "options": [
+            "ออกจากลูป",
+            "ข้ามการทำงาน",
+            "หยุดโปรแกรม",
+            "เรียกฟังก์ชัน"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่ง continue ใช้สำหรับ?",
+        "options": [
+            "ข้ามการทำงานในรอบปัจจุบัน",
+            "ออกจากลูป",
+            "เริ่มลูปใหม่",
+            "จบโปรแกรม"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับตรวจสอบเงื่อนไขหลายกรณีใน C++?",
+        "options": [
+            "switch-case",
+            "if-else if",
+            "for-loop",
+            "while-loop"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ การประกาศตัวแปรหลายตัวในบรรทัดเดียวสามารถทำได้หรือไม่?",
+        "options": [
+            "ได้",
+            "ไม่ได้",
+            "ได้เฉพาะตัวเลข",
+            "ได้เฉพาะสตริง"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับตรวจสอบความเท่ากันของสตริงใน C++?",
+        "options": [
+            "strcmp()",
+            "==",
+            "equals()",
+            "compare()"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ การประกาศอาร์เรย์ต้องระบุขนาดหรือไม่?",
+        "options": [
+            "ต้องระบุ",
+            "ไม่ต้องระบุ",
+            "ระบุเฉพาะตัวแปรชนิด int",
+            "ขึ้นอยู่กับคอมไพลเลอร์"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับกำหนดค่าคงที่ที่ไม่สามารถเปลี่ยนแปลงได้?",
+        "options": [
+            "const",
+            "static",
+            "volatile",
+            "mutable"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับทำการคอมไพล์โปรแกรม C++ ในสภาพแวดล้อม Unix?",
+        "options": [
+            "g++",
+            "clang",
+            "javac",
+            "python"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ คำสั่ง #include ใช้สำหรับ?",
+        "options": [
+            "รวมไฟล์ header",
+            "คอมไพล์โปรแกรม",
+            "เรียกใช้ฟังก์ชัน",
+            "ประกาศตัวแปร"
+        ],
+        "correct": 0,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับป้องกันการประกาศซ้ำของ header ใน C++?",
+        "options": [
+            "#include guard",
+            "#pragma once",
+            "ไม่มีข้อใด",
+            "ทั้งสองข้อ"
+        ],
+        "correct": 3,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการค้นหาแบบเชิงเส้น (Linear Search) อัลกอริทึมจะตรวจสอบข้อมูลอย่างไร?",
+        "options": [
+            "ตรวจสอบทุกตำแหน่ง",
+            "แบ่งครึ่งข้อมูล",
+            "เรียงลำดับก่อนค้นหา",
+            "ใช้ดัชนี"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการใช้ STL Vector คำสั่งใดใช้สำหรับเพิ่มสมาชิกเข้าไปในท้ายเวกเตอร์?",
+        "options": [
+            "insert()",
+            "append()",
+            "push_back()",
+            "emplace()"
+        ],
+        "correct": 2,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน C++ ใช้สำหรับค้นหาแบบเชิงเส้นใน STL?",
+        "options": [
+            "search()",
+            "lookup()",
+            "find()",
+            "scan()"
+        ],
+        "correct": 2,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "อัลกอริทึมการหาผลรวม (Summation Algorithm) ใน STL ใช้ฟังก์ชันใด?",
+        "options": [
+            "sum()",
+            "total()",
+            "combine()",
+            "accumulate()"
+        ],
+        "correct": 3,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการใช้งาน STL Queue ข้อมูลจะถูกดึงออกในลักษณะใด?",
+        "options": [
+            "FIFO",
+            "LIFO",
+            "Random",
+            "Sorted"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการใช้งาน STL Stack คำสั่งใดใช้สำหรับเพิ่มสมาชิก?",
+        "options": [
+            "insert()",
+            "enqueue()",
+            "push()",
+            "append()"
+        ],
+        "correct": 2,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน STL Set ข้อมูลจะถูกจัดเก็บในลักษณะใด?",
+        "options": [
+            "ไม่เรียงลำดับ",
+            "เรียงลำดับ",
+            "แบบสุ่ม",
+            "ตามที่เพิ่มเข้าไป"
+        ],
+        "correct": 1,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน C++ ใช้สำหรับคัดลอกข้อมูลจากคอนเทนเนอร์หนึ่งไปยังอีกคอนเทนเนอร์หนึ่ง?",
+        "options": [
+            "clone()",
+            "duplicate()",
+            "copy()",
+            "replicate()"
+        ],
+        "correct": 2,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "59. ในการใช้งาน STL Algorithm สำหรับจัดเรียงข้อมูล คำสั่งที่ใช้คืออะไร?",
+        "options": [
+            "order()",
+            "arrange()",
+            "sequence()",
+            "sort()"
+        ],
+        "correct": 3,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการค้นหาด้วย Binary Search ข้อมูลต้องอยู่ในรูปแบบใด?",
+        "options": [
+            "เรียงลำดับ",
+            "ไม่เรียง",
+            "สุ่ม",
+            "ทั้งหมด"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการใช้งาน STL List คำสั่งใดใช้สำหรับเพิ่มสมาชิก?",
+        "options": [
+            "insert()",
+            "emplace_back()",
+            "push_back()",
+            "append()"
+        ],
+        "correct": 2,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "อัลกอริทึมการจัดเส้นทาง (Routing Algorithm) ส่วนใหญ่ใช้ในด้านใด?",
+        "options": [
+            "กราฟ",
+            "อาร์เรย์",
+            "สตริง",
+            "ลิสต์"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ คำสั่งใดใช้สำหรับจัดการข้อยกเว้น (Exception)?",
+        "options": [
+            "try-catch",
+            "if-else",
+            "switch-case",
+            "do-while"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ใช้สำหรับค้นหาค่าต่ำสุดในคอนเทนเนอร์?",
+        "options": [
+            "min()",
+            "lowest()",
+            "find_min()",
+            "min_element()"
+        ],
+        "correct": 3,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน STL, คำสั่ง accumulate() ใช้สำหรับ?",
+        "options": [
+            "หาค่าสูงสุด",
+            "หาค่าต่ำสุด",
+            "หาค่าเฉลี่ย",
+            "หาผลรวม"
+        ],
+        "correct": 3,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใช้สำหรับลบสมาชิกตัวแรกใน STL Queue?",
+        "options": [
+            "dequeue()",
+            "pop()",
+            "remove()",
+            "erase()"
+        ],
+        "correct": 1,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการใช้ฟังก์ชัน find() ของ STL เมื่อไม่พบค่าจะคืนค่าอะไร?",
+        "options": [
+            "iterator ชุดสุดท้าย",
+            "-1",
+            "null",
+            "0"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ใช้สำหรับเพิ่มสมาชิกในคอนเทนเนอร์แบบมีลำดับ?",
+        "options": [
+            "push_back()",
+            "insert()",
+            "append()",
+            "emplace()"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "การใช้ iterator ใน STL มีประโยชน์อย่างไร?",
+        "options": [
+            "เข้าถึงสมาชิกทีละตัว",
+            "เพิ่มสมาชิก",
+            "ลบสมาชิก",
+            "เรียงลำดับสมาชิก"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการใช้งาน STL Map คำสั่งใดใช้สำหรับเข้าถึงข้อมูลโดยใช้ key?",
+        "options": [
+            "map.find(key)",
+            "map.get(key)",
+            "map.at(key)",
+            "map[key]"
+        ],
+        "correct": 3,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการคัดลอกข้อมูลระหว่างคอนเทนเนอร์ คำสั่ง copy() อยู่ใน header ใด?",
+        "options": [
+            "<vector>",
+            "<iterator>",
+            "<functional>",
+            "<algorithm>"
+        ],
+        "correct": 3,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "การใช้งาน STL Set มักใช้สำหรับ?",
+        "options": [
+            "เก็บข้อมูลที่ไม่ซ้ำกัน",
+            "เก็บข้อมูลเรียงลำดับ",
+            "เก็บข้อมูลแบบคู่",
+            "เก็บข้อมูลแบบลำดับ"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการค้นหาด้วยฟังก์ชัน find_if() ของ STL จะต้องส่งตัวแปรอะไรเป็นพารามิเตอร์?",
+        "options": [
+            "predicate",
+            "iterator",
+            "comparator",
+            "function pointer"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน C++ ใช้สำหรับจัดการกับข้อมูลชนิดสตริงใน STL?",
+        "options": [
+            "str",
+            "text",
+            "String",
+            "std::string"
+        ],
+        "correct": 3,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการจัดการหน่วยความจำแบบอัตโนมัติของ C++ คำสั่งใดทำงานเบื้องหลัง?",
+        "options": [
+            "RAII",
+            "Garbage Collection",
+            "Manual Delete",
+            "Auto Free"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่ง emplace_back() ของ STL Vector แตกต่างจาก push_back() อย่างไร?",
+        "options": [
+            "สร้างอ็อบเจ็กต์ใหม่ภายในคอนเทนเนอร์",
+            "เพิ่มข้อมูลในตำแหน่งแรก",
+            "ทำการคัดลอกข้อมูล",
+            "ไม่แตกต่างกัน"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการใช้งาน STL Algorithm คำสั่ง transform() ใช้เพื่อ?",
+        "options": [
+            "เปลี่ยนแปลงสมาชิกในคอนเทนเนอร์",
+            "เรียงลำดับสมาชิก",
+            "คัดลอกสมาชิก",
+            "ค้นหาสมาชิก"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ การใช้ auto keyword ช่วยให้?",
+        "options": [
+            "ไม่ต้องระบุชนิดข้อมูล",
+            "เพิ่มความเร็ว",
+            "ลดการใช้หน่วยความจำ",
+            "ทำงานแบบไดนามิก"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน STL, คำสั่ง adjacent_find() ใช้สำหรับ?",
+        "options": [
+            "ค้นหาสมาชิกที่ติดกันซ้ำ",
+            "ค้นหาสมาชิกที่แตกต่าง",
+            "คัดลอกสมาชิก",
+            "แปลงข้อมูล"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่ง lower_bound() ใน STL ใช้สำหรับ?",
+        "options": [
+            "หาตำแหน่งแรกที่มีค่าสูงกว่าหรือเท่ากับค่าเป้าหมาย",
+            "หาตำแหน่งสุดท้าย",
+            "ค้นหาด้วยการค้นเชิงเส้น",
+            "เรียงข้อมูล"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน STL, คำสั่ง upper_bound() ต่างจาก lower_bound() อย่างไร?",
+        "options": [
+            "upper_bound คืน iterator ของสมาชิกตัวแรกที่มากกว่า",
+            "upper_bound คืน iterator ของสมาชิกตัวแรกที่เท่ากับ",
+            "upper_bound และ lower_bound เหมือนกัน",
+            "upper_bound ใช้กับลิสต์เท่านั้น"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "การใช้งาน STL sort() ต้องใช้ header ใด?",
+        "options": [
+            "<algorithm>",
+            "<vector>",
+            "<iterator>",
+            "<sort>"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ คำสั่ง reserve() ของ STL Vector ใช้เพื่อ?",
+        "options": [
+            "จองพื้นที่หน่วยความจำล่วงหน้า",
+            "ลดขนาดเวกเตอร์",
+            "เพิ่มสมาชิก",
+            "ลบสมาชิก"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ใช้สำหรับเปลี่ยนลำดับสมาชิกในคอนเทนเนอร์?",
+        "options": [
+            "flip()",
+            "invert()",
+            "rotate()",
+            "reverse()"
+        ],
+        "correct": 3,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "การใช้ STL Algorithm สำหรับคัดกรองสมาชิกที่ตรงตามเงื่อนไขใช้คำสั่งใด?",
+        "options": [
+            "copy_if()",
+            "filter()",
+            "select()",
+            "remove_if()"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการใช้งาน STL, คำสั่ง distance() ใช้สำหรับ?",
+        "options": [
+            "วัดระยะห่างระหว่าง iterator สองตัว",
+            "คำนวณผลรวม",
+            "ค้นหาสมาชิก",
+            "เปรียบเทียบข้อมูล"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน STL, คำสั่ง accumulate() สามารถกำหนดค่าเริ่มต้นได้หรือไม่?",
+        "options": [
+            "ได้",
+            "ไม่ได้",
+            "ได้เฉพาะตัวเลข",
+            "ได้เฉพาะสตริง"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "การใช้ STL find() เมื่อไม่พบสมาชิกจะคืนค่า iterator ไหน?",
+        "options": [
+            "end()",
+            "begin()",
+            "null",
+            "false"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการใช้งาน STL, คำสั่ง sort() สามารถเรียงลำดับข้อมูลแบบ custom comparator ได้หรือไม่?",
+        "options": [
+            "ได้",
+            "ไม่ได้",
+            "ได้เฉพาะตัวเลข",
+            "ได้เฉพาะสตริง"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่ง emplace() ใน STL Container ใช้เพื่อ?",
+        "options": [
+            "เพิ่มสมาชิกโดยสร้างอ็อบเจ็กต์ใหม่",
+            "ลบสมาชิก",
+            "ค้นหาสมาชิก",
+            "คัดลอกสมาชิก"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการใช้งาน STL, คำสั่ง unique() ใช้สำหรับ?",
+        "options": [
+            "ลบสมาชิกที่ซ้ำกัน",
+            "ค้นหาสมาชิกที่ซ้ำกัน",
+            "เพิ่มสมาชิกที่ไม่ซ้ำ",
+            "เรียงลำดับสมาชิก"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน C++ ใช้สำหรับเปรียบเทียบความเท่ากันของตัวแปรแบบ floating-point อย่างระมัดระวัง?",
+        "options": [
+            "fabs(a - b) < epsilon",
+            "==",
+            ">=",
+            "<="
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน STL, คำสั่ง transform() สามารถใช้กับ lambda expression ได้หรือไม่?",
+        "options": [
+            "ได้",
+            "ไม่ได้",
+            "ได้เฉพาะใน C++11 ขึ้นไป",
+            "ได้เฉพาะใน C++98"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน STL, คำสั่ง merge() ใช้สำหรับ?",
+        "options": [
+            "รวมคอนเทนเนอร์ที่เรียงลำดับแล้ว",
+            "รวมคอนเทนเนอร์ทั้งหมด",
+            "แยกคอนเทนเนอร์",
+            "คัดลอกคอนเทนเนอร์"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ใช้สำหรับค้นหาสมาชิกที่มีค่าใกล้เคียงกับค่าเป้าหมาย?",
+        "options": [
+            "equal_range()",
+            "binary_search()",
+            "find()",
+            "search_n()"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน STL, คำสั่ง fill() ใช้สำหรับ?",
+        "options": [
+            "แทนที่สมาชิกทั้งหมดด้วยค่าเดียว",
+            "คัดลอกสมาชิก",
+            "ลบสมาชิก",
+            "ค้นหาสมาชิก"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน STL, คำสั่ง generate() ใช้สำหรับ?",
+        "options": [
+            "สร้างข้อมูลใหม่ในคอนเทนเนอร์",
+            "ลบข้อมูลในคอนเทนเนอร์",
+            "คัดลอกข้อมูล",
+            "ค้นหาข้อมูล"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน STL, คำสั่ง replace() ใช้สำหรับ?",
+        "options": [
+            "แทนที่สมาชิกที่ตรงกับค่าเดิมด้วยค่าที่ใหม่",
+            "ลบสมาชิก",
+            "คัดลอกสมาชิก",
+            "เพิ่มสมาชิก"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการใช้งาน STL, คำสั่ง swap() ใช้สำหรับ?",
+        "options": [
+            "สลับค่าระหว่างสมาชิกสองตัว",
+            "ลบสมาชิก",
+            "เพิ่มสมาชิก",
+            "คัดลอกสมาชิก"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน STL, คำสั่ง partition() ใช้สำหรับ?",
+        "options": [
+            "แบ่งคอนเทนเนอร์ออกเป็นสองส่วนตามเงื่อนไข",
+            "เรียงลำดับข้อมูล",
+            "รวมข้อมูล",
+            "ค้นหาสมาชิก"
+        ],
+        "correct": 0,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ใช้สำหรับหาค่าสูงสุดในคอนเทนเนอร์?",
+        "options": [
+            "top()",
+            "highest()",
+            "max()",
+            "max_element()"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "อัลกอริทึม Counting Sort ใน C++ มีความซับซ้อนในกรณีปกติเป็นเท่าใด?",
+        "options": [
+            "O(n log n)",
+            "O(n^2)",
+            "O(1)",
+            "O(n)"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ฟังก์ชัน max_element() ของ STL ใช้สำหรับ?",
+        "options": [
+            "ค้นหาสมาชิกที่มีค่าต่ำสุด",
+            "เรียงลำดับสมาชิก",
+            "หาค่าผลรวม",
+            "ค้นหาสมาชิกที่มีค่าสูงสุด"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการใช้งาน STL Algorithm, คำสั่ง accumulate() สามารถใช้กับ custom binary operation ได้หรือไม่?",
+        "options": [
+            "ไม่ได้",
+            "ได้เฉพาะตัวเลข",
+            "ได้เฉพาะสตริง",
+            "ได้"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่ง lower_bound() และ upper_bound() ใช้สำหรับ?",
+        "options": [
+            "ค้นหาสมาชิกเดียว",
+            "เรียงลำดับสมาชิก",
+            "คัดกรองสมาชิก",
+            "ค้นหาช่วงของสมาชิกที่มีค่าเท่ากัน"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ ฟังก์ชัน sort() ของ STL ใช้อัลกอริทึมอะไรเป็นพื้นฐาน?",
+        "options": [
+            "Merge Sort",
+            "Heap Sort",
+            "Insertion Sort",
+            "Quick Sort"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่ง stable_sort() ต่างจาก sort() อย่างไรใน STL?",
+        "options": [
+            "รักษาลำดับของสมาชิกที่เท่ากัน",
+            "เร็วกว่า",
+            "ช้ากว่า",
+            "ไม่สามารถใช้กับคอนเทนเนอร์บางประเภท"
+        ],
+        "correct": 0,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน STL, คำสั่ง partial_sort() ใช้เพื่อ?",
+        "options": [
+            "จัดเรียงทั้งหมด",
+            "ค้นหาสมาชิกที่มากที่สุด",
+            "ค้นหาสมาชิกที่น้อยที่สุด",
+            "จัดเรียงส่วนหนึ่งของคอนเทนเนอร์"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการใช้งาน STL, คำสั่ง nth_element() ใช้สำหรับ?",
+        "options": [
+            "ค้นหาสมาชิกที่ n",
+            "เรียงลำดับทั้งหมด",
+            "ลบสมาชิกที่ n",
+            "จัดเรียงสมาชิกจนกระทั่งสมาชิกที่ตำแหน่ง n อยู่ในตำแหน่งที่ถูกต้อง"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ใช้สำหรับรวมค่าจากสมาชิกในคอนเทนเนอร์?",
+        "options": [
+            "combine()",
+            "merge()",
+            "sum()",
+            "accumulate()"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ ฟังก์ชัน partial_sum() ใช้สำหรับ?",
+        "options": [
+            "คำนวณผลรวมทั้งหมด",
+            "หาค่าสูงสุด",
+            "หาค่าต่ำสุด",
+            "คำนวณผลรวมสะสมของสมาชิก"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ใช้สำหรับค้นหาสมาชิกที่มีค่าเฉพาะเจาะจง?",
+        "options": [
+            "lookup()",
+            "query()",
+            "search()",
+            "find()"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ การใช้ lambda expression ช่วยให้เขียนโค้ดได้?",
+        "options": [
+            "ลดความสามารถของโปรแกรม",
+            "ซับซ้อนขึ้น",
+            "กระชับและอ่านง่าย",
+            "ช้าลง"
+        ],
+        "correct": 2,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ใช้สำหรับนับสมาชิกที่ตรงตามเงื่อนไข?",
+        "options": [
+            "number_of()",
+            "sum_if()",
+            "count_if()",
+            "count()"
+        ],
+        "correct": 2,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน STL, คำสั่ง merge() ทำงานได้อย่างไรถ้าสมาชิกในคอนเทนเนอร์ไม่ได้เรียงลำดับ?",
+        "options": [
+            "ผลลัพธ์ไม่ถูกต้อง",
+            "ยังคงทำงานได้",
+            "จะเกิดข้อผิดพลาด",
+            "ต้องใช้ comparator"
+        ],
+        "correct": 0,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ใช้สำหรับแบ่งคอนเทนเนอร์ออกเป็นสองส่วนตามเงื่อนไข?",
+        "options": [
+            "divide()",
+            "segment()",
+            "split()",
+            "partition()"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ คำสั่ง unique() ของ STL ใช้สำหรับ?",
+        "options": [
+            "เพิ่มสมาชิกที่ไม่ซ้ำ",
+            "ลบสมาชิกที่ซ้ำกัน",
+            "ค้นหาสมาชิกที่ซ้ำกัน",
+            "เรียงลำดับสมาชิก"
+        ],
+        "correct": 1,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน STL, คำสั่ง set_difference() ใช้สำหรับ?",
+        "options": [
+            "หาความแตกต่างระหว่างสองคอนเทนเนอร์",
+            "รวมคอนเทนเนอร์",
+            "คัดกรองสมาชิก",
+            "หาสมาชิกที่ซ้ำกัน"
+        ],
+        "correct": 0,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ใช้สำหรับเปลี่ยนลำดับสมาชิกโดยการหมุนคอนเทนเนอร์?",
+        "options": [
+            "shift()",
+            "move()",
+            "flip()",
+            "rotate()"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ การใช้ฟังก์ชัน transform() สามารถประยุกต์ใช้กับ container ใดได้บ้าง?",
+        "options": [
+            "เฉพาะ list",
+            "ทุก container ที่มี iterator",
+            "เฉพาะ vector",
+            "เฉพาะ set"
+        ],
+        "correct": 1,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ใช้สำหรับคัดลอกสมาชิกที่ผ่านเงื่อนไขไปยัง container ใหม่?",
+        "options": [
+            "filter()",
+            "replicate()",
+            "copy()",
+            "copy_if()"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ ฟังก์ชัน transform() สามารถทำงานแบบ in-place ได้หรือไม่?",
+        "options": [
+            "ขึ้นอยู่กับ iterator",
+            "ไม่ได้",
+            "ได้เฉพาะบาง container",
+            "ได้"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ใช้สำหรับคำนวณค่าเฉลี่ยของสมาชิกในคอนเทนเนอร์?",
+        "options": [
+            "average()",
+            "mean()",
+            "sum()/count()",
+            "ไม่มีคำสั่งโดยตรง ต้องใช้ accumulate() แล้วหารด้วยจำนวนสมาชิก"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการใช้ STL, คำสั่ง adjacent_find() คืนค่าอะไรหากไม่พบสมาชิกที่ซ้ำกัน?",
+        "options": [
+            "begin()",
+            "-1",
+            "null",
+            "end()"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ใช้สำหรับค้นหาสมาชิกที่มีค่าไม่ตรงกันในสองคอนเทนเนอร์?",
+        "options": [
+            "set_difference()",
+            "set_union()",
+            "set_intersection()",
+            "set_symmetric_difference()"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ STL, คำสั่ง partition_point() ใช้สำหรับ?",
+        "options": [
+            "แบ่งคอนเทนเนอร์",
+            "เรียงลำดับคอนเทนเนอร์",
+            "คัดลอกคอนเทนเนอร์",
+            "หาจุดแบ่งของคอนเทนเนอร์หลังจาก partition()"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใช้สำหรับรวมคอนเทนเนอร์สองอันที่เรียงลำดับแล้ว?",
+        "options": [
+            "combine()",
+            "join()",
+            "union()",
+            "merge()"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ STL, คำสั่ง inplace_merge() ใช้สำหรับ?",
+        "options": [
+            "รวมสองช่วงที่เรียงลำดับแล้วภายในคอนเทนเนอร์เดียว",
+            "รวมสองคอนเทนเนอร์",
+            "คัดลอกคอนเทนเนอร์",
+            "แยกคอนเทนเนอร์"
+        ],
+        "correct": 0,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ใช้สำหรับค้นหาสมาชิกที่มีค่าใกล้เคียงกับค่าเป้าหมายในเชิงสถิติ?",
+        "options": [
+            "none ข้อ",
+            "lower_bound()",
+            "upper_bound()",
+            "equal_range()"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน STL, คำสั่ง partition_copy() ใช้สำหรับ?",
+        "options": [
+            "แบ่งคอนเทนเนอร์เป็นสองส่วนโดยคัดลอกไปยัง container ใหม่",
+            "แบ่งคอนเทนเนอร์ในที่เดิม",
+            "รวมคอนเทนเนอร์",
+            "เรียงลำดับคอนเทนเนอร์"
+        ],
+        "correct": 0,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ STL, ฟังก์ชัน max_element() คืนค่าอะไร?",
+        "options": [
+            "ตำแหน่ง index",
+            "ค่าสูงสุด",
+            "จำนวนสมาชิก",
+            "iterator ของสมาชิกที่มีค่ามากที่สุด"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่ง minmax_element() ใน STL คืนค่าเป็น?",
+        "options": [
+            "คู่ของค่าผลรวม",
+            "ค่าเฉพาะต่ำสุด",
+            "ค่าเฉพาะสูงสุด",
+            "คู่ iterator ของค่าสูงสุดและค่าต่ำสุด"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ การใช้ STL ช่วยเพิ่มความสามารถในการ?",
+        "options": [
+            "ออกแบบกราฟิก",
+            "ทำงานกับฐานข้อมูล",
+            "เขียนโปรแกรมเชิงวัตถุ",
+            "จัดการข้อมูลได้อย่างมีประสิทธิภาพ"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ใช้สำหรับเรียงลำดับข้อมูลในแบบที่ไม่เปลี่ยนแปลงลำดับเดิมของสมาชิกที่เท่ากัน?",
+        "options": [
+            "partial_sort()",
+            "inplace_merge()",
+            "sort()",
+            "stable_sort()"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ STL, ฟังก์ชัน adjacent_difference() ใช้สำหรับ?",
+        "options": [
+            "หาค่าต่ำสุด",
+            "หาค่าผลรวม",
+            "หาค่าสูงสุด",
+            "คำนวณผลต่างระหว่างสมาชิกที่อยู่ติดกัน"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ใช้สำหรับค้นหาสมาชิกในช่วงที่กำหนด?",
+        "options": [
+            "search_n()",
+            "find()",
+            "equal_range()",
+            "lower_bound()"
+        ],
+        "correct": 2,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน STL, ฟังก์ชัน copy_n() ใช้สำหรับ?",
+        "options": [
+            "คัดลอกสมาชิกทั้งหมด",
+            "ลบสมาชิกจำนวน n ตัว",
+            "ย้ายสมาชิก",
+            "คัดลอกสมาชิกจำนวน n ตัว"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ที่สามารถคัดลอกสมาชิกที่ไม่ซ้ำกันได้?",
+        "options": [
+            "copy()",
+            "replicate()",
+            "copy_if()",
+            "unique_copy()"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ STL, คำสั่ง transform() สามารถใช้ปรับเปลี่ยนสมาชิกของคอนเทนเนอร์โดยใช้?",
+        "options": [
+            "if-else",
+            "switch-case",
+            "for-loop",
+            "lambda expression"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ใช้สำหรับคัดกรองสมาชิกที่ไม่ตรงกับเงื่อนไขและคัดลอกไปยังคอนเทนเนอร์ใหม่?",
+        "options": [
+            "copy_if()",
+            "remove_copy_if()",
+            "select_copy()",
+            "filter()"
+        ],
+        "correct": 1,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ การใช้ฟังก์ชัน sort() มีข้อจำกัดเรื่องอะไร?",
+        "options": [
+            "ต้องใช้ iterator แบบ Random Access",
+            "สามารถใช้กับทุก iterator",
+            "ทำงานได้ช้า",
+            "ไม่รองรับ comparator"
+        ],
+        "correct": 0,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ที่ใช้สำหรับเปรียบเทียบสมาชิกระหว่างสองคอนเทนเนอร์?",
+        "options": [
+            "match()",
+            "same()",
+            "compare()",
+            "equal()"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ STL, คำสั่ง set_union() ใช้สำหรับ?",
+        "options": [
+            "หาสมาชิกที่ซ้ำกัน",
+            "รวมสมาชิกของสองคอนเทนเนอร์เข้าด้วยกันโดยไม่ซ้ำ",
+            "หาความแตกต่าง",
+            "ลบสมาชิก"
+        ],
+        "correct": 1,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ใช้สำหรับหาจำนวนสมาชิกในคอนเทนเนอร์?",
+        "options": [
+            "length()",
+            "count()",
+            "size()",
+            "distance()"
+        ],
+        "correct": 2,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ STL, คำสั่ง partition() แบ่งคอนเทนเนอร์ออกเป็น?",
+        "options": [
+            "สองส่วนตามเงื่อนไข",
+            "สี่ส่วน",
+            "สามส่วน",
+            "ไม่สามารถแบ่งได้"
+        ],
+        "correct": 0,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ฟังก์ชัน accumulate() ของ STL คืนค่าอะไร?",
+        "options": [
+            "ค่าสูงสุด",
+            "ผลรวมของสมาชิกในคอนเทนเนอร์",
+            "ค่าเฉลี่ย",
+            "ค่าต่ำสุด"
+        ],
+        "correct": 1,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ STL, คำสั่งสำหรับนับจำนวนสมาชิกในคอนเทนเนอร์คือ?",
+        "options": [
+            "number()",
+            "count()",
+            "length()",
+            "size()"
+        ],
+        "correct": 1,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "คำสั่งใดใน STL ใช้สำหรับค้นหาสมาชิกที่มีค่าสูงสุดและต่ำสุดพร้อมกัน?",
+        "options": [
+            "maxmin()",
+            "find_range()",
+            "minmax_element()",
+            "extreme()"
+        ],
+        "correct": 2,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ในการประยุกต์ใช้อัลกอริทึมใน C++ ควรเลือกใช้ STL เนื่องจาก?",
+        "options": [
+            "รองรับทุกชนิดข้อมูล",
+            "เขียนได้สั้น",
+            "ใช้งานง่าย",
+            "มีประสิทธิภาพและความยืดหยุ่นสูง"
+        ],
+        "correct": 3,
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "multiple-choice",
+        "question": "ใน C++ ฟังก์ชัน sort() สามารถใช้งานร่วมกับ lambda expression เพื่อกำหนดเงื่อนไขการเรียงลำดับได้หรือไม่?",
+        "options": [
+            "ได้เฉพาะ C++11 ขึ้นไป",
+            "ไม่ได้",
+            "ได้",
+            "ได้เฉพาะ C++98"
+        ],
+        "correct": 2,
+        "timer": 80,
+        "level": 3
+    }
+]

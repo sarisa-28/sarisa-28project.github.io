@@ -1,0 +1,23 @@
+[
+    {
+        "type": "multiple-choice",
+        "question": "2+2",
+        "options": [
+            "4",
+            "3",
+            "2",
+            "1;"
+        ],
+        "correct": 0,
+        "timer": 20,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "1+1",
+        "correct": "2",
+        "timer": 20,
+        "level": 1
+    }
+]
+

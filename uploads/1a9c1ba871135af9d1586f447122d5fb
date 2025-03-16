@@ -1,0 +1,41 @@
+[
+    {
+        "type": "multiple-choice",
+        "question": "",
+        "options": ["", "", "", ""],
+        "correct": ,
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "multiple-choice",
+        "question": "",
+        "options": ["", "", "", ""],
+        "correct": ,
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "multiple-choice",
+        "question": "",
+        "options": ["", "", "", ""],
+        "correct": ,
+        "timer": 80,
+        "level": 3
+    },
+
+{
+    "type": "multiple-choice",
+    "question": "ข้อใดเป็นคำสั่งที่ถูกต้องในการประกาศตัวแปรเวกเตอร์ (vector) ใน C++? (1)",
+    "options": [
+        "vector<int> v;",
+        "int vector v;",
+        "vector v<int>;",
+        "vector v = new int[];"
+    ],
+    "correct": 0,
+    "timer": 60,
+    "level": 1
+}
+]
+

@@ -1,0 +1,1052 @@
+[
+    {
+        "type": "essay",
+        "question": "ค่ามากสุดที่ได้จากฟังก์ชัน maxmin() ของอาร์เรย์ {10, 2, 8, 6, 4} คือเท่าไร?",
+        "correct": "10",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "โครงสร้างข้อมูล Stack ใช้หลักการใดในการเพิ่มและลบข้อมูล? (1: FIFO, 2: LIFO)",
+        "correct": "2",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ใน STL Vector ถ้าประกาศ vector<int> v(5, 2) ค่า v[3] คือเท่าไร?",
+        "correct": "2",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ถ้ามีอาร์เรย์ {3, 6, 9, 12, 15} และใช้ Linear Search หาเลข 9 ต้องตรวจสอบกี่ครั้ง?",
+        "correct": "3",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ใน STL Set ถ้าทำ set.insert(4) ซ้ำๆ กัน 3 ครั้ง Set จะมีขนาดเท่าไร?",
+        "correct": "1",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าต้องการคำนวณผลรวมของอาร์เรย์ {1, 2, 3, 4, 5} คำสั่ง STL Algorithm ที่ใช้คืออะไร? (1: accumulate, 2: sort)",
+        "correct": "1",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ค่ามากสุดที่ได้จากฟังก์ชัน maxmin() ของอาร์เรย์ {10, 2, 8, 6, 4} คือเท่าไร?",
+        "correct": "10",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "โครงสร้างข้อมูล Stack ใช้หลักการใดในการเพิ่มและลบข้อมูล? (1: FIFO, 2: LIFO)",
+        "correct": "2",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ใน STL Vector ถ้าประกาศ vector<int> v(5, 2) ค่า v[3] คือเท่าไร?",
+        "correct": "2",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ถ้ามีอาร์เรย์ {3, 6, 9, 12, 15} และใช้ Linear Search หาเลข 9 ต้องตรวจสอบกี่ครั้ง?",
+        "correct": "3",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ใน STL Set ถ้าทำ set.insert(4) ซ้ำๆ กัน 3 ครั้ง Set จะมีขนาดเท่าไร?",
+        "correct": "1",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าต้องการคำนวณผลรวมของอาร์เรย์ {1, 2, 3, 4, 5} คำสั่ง STL Algorithm ที่ใช้คืออะไร? (1: accumulate, 2: sort)",
+        "correct": "1",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ค่ามากสุดที่ได้จากฟังก์ชัน maxmin() ของอาร์เรย์ {10, 2, 8, 6, 4} คือเท่าไร?",
+        "correct": "10",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "โครงสร้างข้อมูล Stack ใช้หลักการใดในการเพิ่มและลบข้อมูล? (1: FIFO, 2: LIFO)",
+        "correct": "2",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ใน STL Vector ถ้าประกาศ vector<int> v(5, 2) ค่า v[3] คือเท่าไร?",
+        "correct": "2",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ถ้ามีอาร์เรย์ {3, 6, 9, 12, 15} และใช้ Linear Search หาเลข 9 ต้องตรวจสอบกี่ครั้ง?",
+        "correct": "3",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ใน STL Set ถ้าทำ set.insert(4) ซ้ำๆ กัน 3 ครั้ง Set จะมีขนาดเท่าไร?",
+        "correct": "1",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าต้องการคำนวณผลรวมของอาร์เรย์ {1, 2, 3, 4, 5} คำสั่ง STL Algorithm ที่ใช้คืออะไร? (1: accumulate, 2: sort)",
+        "correct": "1",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ค่ามากสุดที่ได้จากฟังก์ชัน maxmin() ของอาร์เรย์ {10, 2, 8, 6, 4} คือเท่าไร?",
+        "correct": "10",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "โครงสร้างข้อมูล Stack ใช้หลักการใดในการเพิ่มและลบข้อมูล? (1: FIFO, 2: LIFO)",
+        "correct": "2",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ใน STL Vector ถ้าประกาศ vector<int> v(5, 2) ค่า v[3] คือเท่าไร?",
+        "correct": "2",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ถ้ามีอาร์เรย์ {3, 6, 9, 12, 15} และใช้ Linear Search หาเลข 9 ต้องตรวจสอบกี่ครั้ง?",
+        "correct": "3",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ใน STL Set ถ้าทำ set.insert(4) ซ้ำๆ กัน 3 ครั้ง Set จะมีขนาดเท่าไร?",
+        "correct": "1",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าต้องการคำนวณผลรวมของอาร์เรย์ {1, 2, 3, 4, 5} คำสั่ง STL Algorithm ที่ใช้คืออะไร? (1: accumulate, 2: sort)",
+        "correct": "1",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ค่ามากสุดที่ได้จากฟังก์ชัน maxmin() ของอาร์เรย์ {10, 2, 8, 6, 4} คือเท่าไร?",
+        "correct": "10",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "โครงสร้างข้อมูล Stack ใช้หลักการใดในการเพิ่มและลบข้อมูล? (1: FIFO, 2: LIFO)",
+        "correct": "2",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ใน STL Vector ถ้าประกาศ vector<int> v(5, 2) ค่า v[3] คือเท่าไร?",
+        "correct": "2",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ถ้ามีอาร์เรย์ {3, 6, 9, 12, 15} และใช้ Linear Search หาเลข 9 ต้องตรวจสอบกี่ครั้ง?",
+        "correct": "3",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ใน STL Set ถ้าทำ set.insert(4) ซ้ำๆ กัน 3 ครั้ง Set จะมีขนาดเท่าไร?",
+        "correct": "1",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าต้องการคำนวณผลรวมของอาร์เรย์ {1, 2, 3, 4, 5} คำสั่ง STL Algorithm ที่ใช้คืออะไร? (1: accumulate, 2: sort)",
+        "correct": "1",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ค่ามากสุดที่ได้จากฟังก์ชัน maxmin() ของอาร์เรย์ {10, 2, 8, 6, 4} คือเท่าไร?",
+        "correct": "10",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "โครงสร้างข้อมูล Stack ใช้หลักการใดในการเพิ่มและลบข้อมูล? (1: FIFO, 2: LIFO)",
+        "correct": "2",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ใน STL Vector ถ้าประกาศ vector<int> v(5, 2) ค่า v[3] คือเท่าไร?",
+        "correct": "2",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ถ้ามีอาร์เรย์ {3, 6, 9, 12, 15} และใช้ Linear Search หาเลข 9 ต้องตรวจสอบกี่ครั้ง?",
+        "correct": "3",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ใน STL Set ถ้าทำ set.insert(4) ซ้ำๆ กัน 3 ครั้ง Set จะมีขนาดเท่าไร?",
+        "correct": "1",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าต้องการคำนวณผลรวมของอาร์เรย์ {1, 2, 3, 4, 5} คำสั่ง STL Algorithm ที่ใช้คืออะไร? (1: accumulate, 2: sort)",
+        "correct": "1",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ค่ามากสุดที่ได้จากฟังก์ชัน maxmin() ของอาร์เรย์ {10, 2, 8, 6, 4} คือเท่าไร?",
+        "correct": "10",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "โครงสร้างข้อมูล Stack ใช้หลักการใดในการเพิ่มและลบข้อมูล? (1: FIFO, 2: LIFO)",
+        "correct": "2",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ใน STL Vector ถ้าประกาศ vector<int> v(5, 2) ค่า v[3] คือเท่าไร?",
+        "correct": "2",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ถ้ามีอาร์เรย์ {3, 6, 9, 12, 15} และใช้ Linear Search หาเลข 9 ต้องตรวจสอบกี่ครั้ง?",
+        "correct": "3",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ใน STL Set ถ้าทำ set.insert(4) ซ้ำๆ กัน 3 ครั้ง Set จะมีขนาดเท่าไร?",
+        "correct": "1",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าต้องการคำนวณผลรวมของอาร์เรย์ {1, 2, 3, 4, 5} คำสั่ง STL Algorithm ที่ใช้คืออะไร? (1: accumulate, 2: sort)",
+        "correct": "1",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ค่ามากสุดที่ได้จากฟังก์ชัน maxmin() ของอาร์เรย์ {10, 2, 8, 6, 4} คือเท่าไร?",
+        "correct": "10",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "โครงสร้างข้อมูล Stack ใช้หลักการใดในการเพิ่มและลบข้อมูล? (1: FIFO, 2: LIFO)",
+        "correct": "2",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ใน STL Vector ถ้าประกาศ vector<int> v(5, 2) ค่า v[3] คือเท่าไร?",
+        "correct": "2",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ถ้ามีอาร์เรย์ {3, 6, 9, 12, 15} และใช้ Linear Search หาเลข 9 ต้องตรวจสอบกี่ครั้ง?",
+        "correct": "3",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ใน STL Set ถ้าทำ set.insert(4) ซ้ำๆ กัน 3 ครั้ง Set จะมีขนาดเท่าไร?",
+        "correct": "1",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าต้องการคำนวณผลรวมของอาร์เรย์ {1, 2, 3, 4, 5} คำสั่ง STL Algorithm ที่ใช้คืออะไร? (1: accumulate, 2: sort)",
+        "correct": "1",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ค่ามากสุดที่ได้จากฟังก์ชัน maxmin() ของอาร์เรย์ {10, 2, 8, 6, 4} คือเท่าไร?",
+        "correct": "10",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "โครงสร้างข้อมูล Stack ใช้หลักการใดในการเพิ่มและลบข้อมูล? (1: FIFO, 2: LIFO)",
+        "correct": "2",
+        "timer": 60,
+        "level": 1
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าทำ Queue Enqueue 5 ค่า แล้ว Dequeue 2 ค่า คิวเหลือกี่ค่า?",
+        "correct": "3",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "Bubble Sort กับอาร์เรย์ 8 ตัว ต้องเปรียบเทียบสูงสุดกี่ครั้ง?",
+        "correct": "28",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ในอัลกอริทึม Counting Sort ถ้าค่าสูงสุดคือ 15 ต้องใช้ช่องเก็บข้อมูลกี่ช่อง?",
+        "correct": "16",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "หากใช้ Binary Search ในอาร์เรย์ขนาด 64 ต้องใช้การเปรียบเทียบสูงสุดกี่ครั้ง?",
+        "correct": "6",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "หากมีกราฟที่มี 6 โหนดและเชื่อมต่อกันหมด จะมีเส้นเชื่อมทั้งหมดกี่เส้น?",
+        "correct": "15",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ Hash Table ที่มีขนาด 10 และมีข้อมูล 25 ค่า ต้องเกิด Collision ขั้นต่ำกี่ครั้ง?",
+        "correct": "15",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าทำ Queue Enqueue 5 ค่า แล้ว Dequeue 2 ค่า คิวเหลือกี่ค่า?",
+        "correct": "3",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "Bubble Sort กับอาร์เรย์ 8 ตัว ต้องเปรียบเทียบสูงสุดกี่ครั้ง?",
+        "correct": "28",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ในอัลกอริทึม Counting Sort ถ้าค่าสูงสุดคือ 15 ต้องใช้ช่องเก็บข้อมูลกี่ช่อง?",
+        "correct": "16",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "หากใช้ Binary Search ในอาร์เรย์ขนาด 64 ต้องใช้การเปรียบเทียบสูงสุดกี่ครั้ง?",
+        "correct": "6",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "หากมีกราฟที่มี 6 โหนดและเชื่อมต่อกันหมด จะมีเส้นเชื่อมทั้งหมดกี่เส้น?",
+        "correct": "15",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ Hash Table ที่มีขนาด 10 และมีข้อมูล 25 ค่า ต้องเกิด Collision ขั้นต่ำกี่ครั้ง?",
+        "correct": "15",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าทำ Queue Enqueue 5 ค่า แล้ว Dequeue 2 ค่า คิวเหลือกี่ค่า?",
+        "correct": "3",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "Bubble Sort กับอาร์เรย์ 8 ตัว ต้องเปรียบเทียบสูงสุดกี่ครั้ง?",
+        "correct": "28",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ในอัลกอริทึม Counting Sort ถ้าค่าสูงสุดคือ 15 ต้องใช้ช่องเก็บข้อมูลกี่ช่อง?",
+        "correct": "16",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "หากใช้ Binary Search ในอาร์เรย์ขนาด 64 ต้องใช้การเปรียบเทียบสูงสุดกี่ครั้ง?",
+        "correct": "6",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "หากมีกราฟที่มี 6 โหนดและเชื่อมต่อกันหมด จะมีเส้นเชื่อมทั้งหมดกี่เส้น?",
+        "correct": "15",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ Hash Table ที่มีขนาด 10 และมีข้อมูล 25 ค่า ต้องเกิด Collision ขั้นต่ำกี่ครั้ง?",
+        "correct": "15",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าทำ Queue Enqueue 5 ค่า แล้ว Dequeue 2 ค่า คิวเหลือกี่ค่า?",
+        "correct": "3",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "Bubble Sort กับอาร์เรย์ 8 ตัว ต้องเปรียบเทียบสูงสุดกี่ครั้ง?",
+        "correct": "28",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ในอัลกอริทึม Counting Sort ถ้าค่าสูงสุดคือ 15 ต้องใช้ช่องเก็บข้อมูลกี่ช่อง?",
+        "correct": "16",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "หากใช้ Binary Search ในอาร์เรย์ขนาด 64 ต้องใช้การเปรียบเทียบสูงสุดกี่ครั้ง?",
+        "correct": "6",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "หากมีกราฟที่มี 6 โหนดและเชื่อมต่อกันหมด จะมีเส้นเชื่อมทั้งหมดกี่เส้น?",
+        "correct": "15",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ Hash Table ที่มีขนาด 10 และมีข้อมูล 25 ค่า ต้องเกิด Collision ขั้นต่ำกี่ครั้ง?",
+        "correct": "15",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าทำ Queue Enqueue 5 ค่า แล้ว Dequeue 2 ค่า คิวเหลือกี่ค่า?",
+        "correct": "3",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "Bubble Sort กับอาร์เรย์ 8 ตัว ต้องเปรียบเทียบสูงสุดกี่ครั้ง?",
+        "correct": "28",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ในอัลกอริทึม Counting Sort ถ้าค่าสูงสุดคือ 15 ต้องใช้ช่องเก็บข้อมูลกี่ช่อง?",
+        "correct": "16",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "หากใช้ Binary Search ในอาร์เรย์ขนาด 64 ต้องใช้การเปรียบเทียบสูงสุดกี่ครั้ง?",
+        "correct": "6",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "หากมีกราฟที่มี 6 โหนดและเชื่อมต่อกันหมด จะมีเส้นเชื่อมทั้งหมดกี่เส้น?",
+        "correct": "15",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ Hash Table ที่มีขนาด 10 และมีข้อมูล 25 ค่า ต้องเกิด Collision ขั้นต่ำกี่ครั้ง?",
+        "correct": "15",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าทำ Queue Enqueue 5 ค่า แล้ว Dequeue 2 ค่า คิวเหลือกี่ค่า?",
+        "correct": "3",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "Bubble Sort กับอาร์เรย์ 8 ตัว ต้องเปรียบเทียบสูงสุดกี่ครั้ง?",
+        "correct": "28",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ในอัลกอริทึม Counting Sort ถ้าค่าสูงสุดคือ 15 ต้องใช้ช่องเก็บข้อมูลกี่ช่อง?",
+        "correct": "16",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "หากใช้ Binary Search ในอาร์เรย์ขนาด 64 ต้องใช้การเปรียบเทียบสูงสุดกี่ครั้ง?",
+        "correct": "6",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "หากมีกราฟที่มี 6 โหนดและเชื่อมต่อกันหมด จะมีเส้นเชื่อมทั้งหมดกี่เส้น?",
+        "correct": "15",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ Hash Table ที่มีขนาด 10 และมีข้อมูล 25 ค่า ต้องเกิด Collision ขั้นต่ำกี่ครั้ง?",
+        "correct": "15",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าทำ Queue Enqueue 5 ค่า แล้ว Dequeue 2 ค่า คิวเหลือกี่ค่า?",
+        "correct": "3",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "Bubble Sort กับอาร์เรย์ 8 ตัว ต้องเปรียบเทียบสูงสุดกี่ครั้ง?",
+        "correct": "28",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ในอัลกอริทึม Counting Sort ถ้าค่าสูงสุดคือ 15 ต้องใช้ช่องเก็บข้อมูลกี่ช่อง?",
+        "correct": "16",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "หากใช้ Binary Search ในอาร์เรย์ขนาด 64 ต้องใช้การเปรียบเทียบสูงสุดกี่ครั้ง?",
+        "correct": "6",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "หากมีกราฟที่มี 6 โหนดและเชื่อมต่อกันหมด จะมีเส้นเชื่อมทั้งหมดกี่เส้น?",
+        "correct": "15",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ Hash Table ที่มีขนาด 10 และมีข้อมูล 25 ค่า ต้องเกิด Collision ขั้นต่ำกี่ครั้ง?",
+        "correct": "15",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าทำ Queue Enqueue 5 ค่า แล้ว Dequeue 2 ค่า คิวเหลือกี่ค่า?",
+        "correct": "3",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "Bubble Sort กับอาร์เรย์ 8 ตัว ต้องเปรียบเทียบสูงสุดกี่ครั้ง?",
+        "correct": "28",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ในอัลกอริทึม Counting Sort ถ้าค่าสูงสุดคือ 15 ต้องใช้ช่องเก็บข้อมูลกี่ช่อง?",
+        "correct": "16",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "หากใช้ Binary Search ในอาร์เรย์ขนาด 64 ต้องใช้การเปรียบเทียบสูงสุดกี่ครั้ง?",
+        "correct": "6",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "หากมีกราฟที่มี 6 โหนดและเชื่อมต่อกันหมด จะมีเส้นเชื่อมทั้งหมดกี่เส้น?",
+        "correct": "15",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ Hash Table ที่มีขนาด 10 และมีข้อมูล 25 ค่า ต้องเกิด Collision ขั้นต่ำกี่ครั้ง?",
+        "correct": "15",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าทำ Queue Enqueue 5 ค่า แล้ว Dequeue 2 ค่า คิวเหลือกี่ค่า?",
+        "correct": "3",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "Bubble Sort กับอาร์เรย์ 8 ตัว ต้องเปรียบเทียบสูงสุดกี่ครั้ง?",
+        "correct": "28",
+        "timer": 70,
+        "level": 2
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ AVL Tree เก็บข้อมูล 1000 ตัว สูงสุดของต้นไม้จะเป็นเท่าไร?",
+        "correct": "10",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าเรามี Heap ที่มี 7 โหนด ความสูงของ Heap คือเท่าไร?",
+        "correct": "2",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "หากต้องการจัดเส้นทางจากเมือง A ไป B ผ่าน 5 เมือง มีเส้นทางได้กี่แบบ?",
+        "correct": "120",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "QuickSort ที่ดีที่สุดทำงานใน O(n log n) ถ้ามีข้อมูล 100,000 ตัว ต้องใช้เวลากี่ครั้ง?",
+        "correct": "1660000",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "หากต้องการจัดเรียงข้อมูล 1 ล้านตัวโดยใช้ Merge Sort ต้องใช้การเปรียบเทียบขั้นต่ำเท่าไร?",
+        "correct": "20000000",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ Dijkstra Algorithm หาค่าเส้นทางจากโหนด 1 ไปโหนด 10 ที่มี 20 โหนด ต้องตรวจสอบสูงสุดกี่ครั้ง?",
+        "correct": "19",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ AVL Tree เก็บข้อมูล 1000 ตัว สูงสุดของต้นไม้จะเป็นเท่าไร?",
+        "correct": "10",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าเรามี Heap ที่มี 7 โหนด ความสูงของ Heap คือเท่าไร?",
+        "correct": "2",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "หากต้องการจัดเส้นทางจากเมือง A ไป B ผ่าน 5 เมือง มีเส้นทางได้กี่แบบ?",
+        "correct": "120",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "QuickSort ที่ดีที่สุดทำงานใน O(n log n) ถ้ามีข้อมูล 100,000 ตัว ต้องใช้เวลากี่ครั้ง?",
+        "correct": "1660000",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "หากต้องการจัดเรียงข้อมูล 1 ล้านตัวโดยใช้ Merge Sort ต้องใช้การเปรียบเทียบขั้นต่ำเท่าไร?",
+        "correct": "20000000",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ Dijkstra Algorithm หาค่าเส้นทางจากโหนด 1 ไปโหนด 10 ที่มี 20 โหนด ต้องตรวจสอบสูงสุดกี่ครั้ง?",
+        "correct": "19",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ AVL Tree เก็บข้อมูล 1000 ตัว สูงสุดของต้นไม้จะเป็นเท่าไร?",
+        "correct": "10",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าเรามี Heap ที่มี 7 โหนด ความสูงของ Heap คือเท่าไร?",
+        "correct": "2",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "หากต้องการจัดเส้นทางจากเมือง A ไป B ผ่าน 5 เมือง มีเส้นทางได้กี่แบบ?",
+        "correct": "120",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "QuickSort ที่ดีที่สุดทำงานใน O(n log n) ถ้ามีข้อมูล 100,000 ตัว ต้องใช้เวลากี่ครั้ง?",
+        "correct": "1660000",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "หากต้องการจัดเรียงข้อมูล 1 ล้านตัวโดยใช้ Merge Sort ต้องใช้การเปรียบเทียบขั้นต่ำเท่าไร?",
+        "correct": "20000000",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ Dijkstra Algorithm หาค่าเส้นทางจากโหนด 1 ไปโหนด 10 ที่มี 20 โหนด ต้องตรวจสอบสูงสุดกี่ครั้ง?",
+        "correct": "19",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ AVL Tree เก็บข้อมูล 1000 ตัว สูงสุดของต้นไม้จะเป็นเท่าไร?",
+        "correct": "10",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าเรามี Heap ที่มี 7 โหนด ความสูงของ Heap คือเท่าไร?",
+        "correct": "2",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "หากต้องการจัดเส้นทางจากเมือง A ไป B ผ่าน 5 เมือง มีเส้นทางได้กี่แบบ?",
+        "correct": "120",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "QuickSort ที่ดีที่สุดทำงานใน O(n log n) ถ้ามีข้อมูล 100,000 ตัว ต้องใช้เวลากี่ครั้ง?",
+        "correct": "1660000",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "หากต้องการจัดเรียงข้อมูล 1 ล้านตัวโดยใช้ Merge Sort ต้องใช้การเปรียบเทียบขั้นต่ำเท่าไร?",
+        "correct": "20000000",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ Dijkstra Algorithm หาค่าเส้นทางจากโหนด 1 ไปโหนด 10 ที่มี 20 โหนด ต้องตรวจสอบสูงสุดกี่ครั้ง?",
+        "correct": "19",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ AVL Tree เก็บข้อมูล 1000 ตัว สูงสุดของต้นไม้จะเป็นเท่าไร?",
+        "correct": "10",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าเรามี Heap ที่มี 7 โหนด ความสูงของ Heap คือเท่าไร?",
+        "correct": "2",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "หากต้องการจัดเส้นทางจากเมือง A ไป B ผ่าน 5 เมือง มีเส้นทางได้กี่แบบ?",
+        "correct": "120",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "QuickSort ที่ดีที่สุดทำงานใน O(n log n) ถ้ามีข้อมูล 100,000 ตัว ต้องใช้เวลากี่ครั้ง?",
+        "correct": "1660000",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "หากต้องการจัดเรียงข้อมูล 1 ล้านตัวโดยใช้ Merge Sort ต้องใช้การเปรียบเทียบขั้นต่ำเท่าไร?",
+        "correct": "20000000",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ Dijkstra Algorithm หาค่าเส้นทางจากโหนด 1 ไปโหนด 10 ที่มี 20 โหนด ต้องตรวจสอบสูงสุดกี่ครั้ง?",
+        "correct": "19",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ AVL Tree เก็บข้อมูล 1000 ตัว สูงสุดของต้นไม้จะเป็นเท่าไร?",
+        "correct": "10",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าเรามี Heap ที่มี 7 โหนด ความสูงของ Heap คือเท่าไร?",
+        "correct": "2",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "หากต้องการจัดเส้นทางจากเมือง A ไป B ผ่าน 5 เมือง มีเส้นทางได้กี่แบบ?",
+        "correct": "120",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "QuickSort ที่ดีที่สุดทำงานใน O(n log n) ถ้ามีข้อมูล 100,000 ตัว ต้องใช้เวลากี่ครั้ง?",
+        "correct": "1660000",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "หากต้องการจัดเรียงข้อมูล 1 ล้านตัวโดยใช้ Merge Sort ต้องใช้การเปรียบเทียบขั้นต่ำเท่าไร?",
+        "correct": "20000000",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ Dijkstra Algorithm หาค่าเส้นทางจากโหนด 1 ไปโหนด 10 ที่มี 20 โหนด ต้องตรวจสอบสูงสุดกี่ครั้ง?",
+        "correct": "19",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ AVL Tree เก็บข้อมูล 1000 ตัว สูงสุดของต้นไม้จะเป็นเท่าไร?",
+        "correct": "10",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าเรามี Heap ที่มี 7 โหนด ความสูงของ Heap คือเท่าไร?",
+        "correct": "2",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "หากต้องการจัดเส้นทางจากเมือง A ไป B ผ่าน 5 เมือง มีเส้นทางได้กี่แบบ?",
+        "correct": "120",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "QuickSort ที่ดีที่สุดทำงานใน O(n log n) ถ้ามีข้อมูล 100,000 ตัว ต้องใช้เวลากี่ครั้ง?",
+        "correct": "1660000",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "หากต้องการจัดเรียงข้อมูล 1 ล้านตัวโดยใช้ Merge Sort ต้องใช้การเปรียบเทียบขั้นต่ำเท่าไร?",
+        "correct": "20000000",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ Dijkstra Algorithm หาค่าเส้นทางจากโหนด 1 ไปโหนด 10 ที่มี 20 โหนด ต้องตรวจสอบสูงสุดกี่ครั้ง?",
+        "correct": "19",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ AVL Tree เก็บข้อมูล 1000 ตัว สูงสุดของต้นไม้จะเป็นเท่าไร?",
+        "correct": "10",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าเรามี Heap ที่มี 7 โหนด ความสูงของ Heap คือเท่าไร?",
+        "correct": "2",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "หากต้องการจัดเส้นทางจากเมือง A ไป B ผ่าน 5 เมือง มีเส้นทางได้กี่แบบ?",
+        "correct": "120",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "QuickSort ที่ดีที่สุดทำงานใน O(n log n) ถ้ามีข้อมูล 100,000 ตัว ต้องใช้เวลากี่ครั้ง?",
+        "correct": "1660000",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "หากต้องการจัดเรียงข้อมูล 1 ล้านตัวโดยใช้ Merge Sort ต้องใช้การเปรียบเทียบขั้นต่ำเท่าไร?",
+        "correct": "20000000",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ Dijkstra Algorithm หาค่าเส้นทางจากโหนด 1 ไปโหนด 10 ที่มี 20 โหนด ต้องตรวจสอบสูงสุดกี่ครั้ง?",
+        "correct": "19",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าใช้ AVL Tree เก็บข้อมูล 1000 ตัว สูงสุดของต้นไม้จะเป็นเท่าไร?",
+        "correct": "10",
+        "timer": 80,
+        "level": 3
+    },
+    {
+        "type": "essay",
+        "question": "ถ้าเรามี Heap ที่มี 7 โหนด ความสูงของ Heap คือเท่าไร?",
+        "correct": "2",
+        "timer": 80,
+        "level": 3
+    }
+]
